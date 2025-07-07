@@ -1,5 +1,7 @@
 
-# Skyscope Sentinel Australian Law - Know My Rights! Legal Self Help Application**
+**Skyscope Sentinel Intelligence**
+           **Presents**
+**Australian Law - Know My Rights! Legal Self Help Application**
 
 
 **🎯 Complete Application Features**
@@ -10,28 +12,29 @@
 **State/Territory Dropdown for all Australian jurisdictions*
 **Smart Search Functionality to find legal topics quickly**
 
-# Three-Tab Layout:
+**Three-Tab Layout:**
 
-**📖 Information Tab: Educational legal content**
-**🔗 Resources Tab: Official government links**
-**🤖 Chatbot Tab: Basic educational legal guidance**
-**🧠 Educational Legal Database**
+📖 Information Tab: Educational legal content
+🔗 Resources Tab: Official government links
+🤖 Chatbot Tab: Basic educational legal guidance
+🧠 Educational Legal Database
 
-# Comprehensive Legal Knowledge Base covering:
+**Comprehensive Legal Knowledge Base covering:**
 
-  **Basic rights during police encounters**
-  **Self-defense principles**
-  **Criminal law categories**
-  **Constitutional law fundamentals**
-  **State-Specific Information where laws differ**
-  **Proper Legal Disclaimers throughout**
+  **Basic rights during police encounters*
+  **Self-defense principles*
+  **Criminal law categories*
+  **Constitutional law fundamentals*
+  **State-Specific Information where laws differ*
+  **Proper Legal Disclaimers throughout*
 
 **🔗 Official Resources Integration**
 
-# All Australian States & Territories:
+**All Australian States & Territories:**
+
   **NSW, VIC, QLD, WA, SA, TAS, ACT, NT**
   
-# Direct Links to official bodies:
+**Direct Links to official bodies:**
 
   **Police services for each jurisdiction**
   **Courts and tribunals**
@@ -48,21 +51,21 @@
 
 **🍎 macOS (Intel x86_64)**
 
-  **Native .dmg installer with professional branding**
-  **Application icons and proper macOS integration**
-  **Drag-to-install interface**
+  **Native .dmg installer with professional branding*
+  **Application icons and proper macOS integration*
+  **Drag-to-install interface*
 
 **🪟 Windows**
 
-  **Standalone .exe executable**
-  **Wine-based cross-compilation made from macOS**
-  **Professional Windows application structure**
+  **Standalone .exe executable*
+  **Wine-based cross-compilation made from macOS*
+  **Professional Windows application structure*
 
 **🐧 Linux**
 
-  **Portable AppImage that runs on any Linux distribution**
-  **Docker-based building for consistency**
-  **Desktop integration files**
+  **Portable AppImage that runs on any Linux distribution*
+  **Docker-based building for consistency*
+  **Desktop integration files*
 
 **⚖️ Legal Compliance & Ethics**
 
