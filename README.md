@@ -1,5 +1,3 @@
-## Skyscope Sentinel Intelligence 
-* presents
 
 **Skyscope Sentinel Australian Law - Know My Rights! Legal Self Help Application**
 
